@@ -39,14 +39,14 @@
 #         circumference = 2 * 3.14 * num
 #         print(f"Area is {area}")
 #         print(f"Circumference is {circumference}")
-#         break   
+#         break
 #     except ValueError:
 #         print("Enter a valid number")
 # 	- Ask the user for his name then confirm that he has entered his name (not an empty string/integers). then proceed to ask him for his email and print all this data
 # while True:
 #     name = input()
 #
-#     if not name.strip() :
+#     if not name.strip() or not name.isalpha():
 #         print("enter valid name")
 #     else:
 #         email = input()
