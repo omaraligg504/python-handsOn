@@ -1,0 +1,7 @@
+Function: check_valid_emails, Runtime: 0.002058 seconds
+Function: check_valid_emails, Runtime: 0.002290 seconds
+Function: check_valid_emails, Runtime: 0.001958 seconds
+Function: transform_product_data, Runtime: 19.181583 seconds
+Function: transform_product_data, Runtime: 6.038448 seconds
+Function: transform_product_data, Runtime: 7.318352 seconds
+Function: transform_product_data, Runtime: 6.408443 seconds

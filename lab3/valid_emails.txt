@@ -1,0 +1,12 @@
+test@mail.com
+hello.world@site.org
+another.valid123@mail.co.uk
+test@mail.com
+hello.world@site.org
+another.valid123@mail.co.uk
+test@mail.com
+hello.world@site.org
+another.valid123@mail.co.uk
+test@mail.com
+hello.world@site.org
+another.valid123@mail.co.uk
